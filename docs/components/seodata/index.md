@@ -3,6 +3,7 @@ title: SeoData
 description: SEO-шаблоны заголовков, description и контента для MODX 3 и MiniShop3
 repository: https://github.com/adm93rus/SeoData
 author: adm93rus
+modstore: https://modstore.pro/packages/other/seodata
 dependencies:
   - VueTools
   - pdoTools
